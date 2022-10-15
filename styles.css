@@ -1,0 +1,50 @@
+body {
+    background-color: white;
+}
+h1{
+    background-color: crimson;
+}
+h2{
+    background-color:blueviolet;
+}
+.background{
+    background-color: darkmagenta;
+}
+p.center {
+    text-align: center;
+    color: black;
+}
+p.large {
+    font-size: 200%;
+}
+.photo {
+    border: 2px solid blueviolet;
+    padding: 30px;
+}
+#para6 {
+    text-align: center;
+    color: black;
+}
+.text1 {
+    color: white;
+}
+.text2 {
+    background-color: black;
+}
+img {
+    border-radius: 8px;
+}
+.mydiv {
+    border: 5px outset red;
+    background-color: rosybrown;
+    text-align: center;
+}
+.personal {
+    border: 3px outset grey;
+    background-color: honeydew;
+    text-align: center;
+}
+.newhead {
+    text-align: center;
+    color: black;
+}
